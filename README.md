@@ -2,7 +2,7 @@
 
 A ComfyUI custom node pack that detects line segments in images using the **OpenCV LSD (Line Segment Detector)** algorithm and provides utilities for visualization, JSON export, and statistics.
 
-![이미지 스펙트럼 예시](https://github.com/bemoregt/ComfyUI_LineSegmentDetector/blob/main/ScrShot%2010.png)
+![이미지 스펙트럼 예시](https://github.com/bemoregt/ComfyUI_LineSegmentDetector/blob/main/ScrShot%2011.png)
 
 ## Nodes
 
